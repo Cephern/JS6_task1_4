@@ -1,4 +1,4 @@
-const socket = io.connect("hhttps://js6-chat.herokuapp.com");
+const socket = io.connect("https://enigmatic-retreat-94774.herokuapp.com/");
 
 // Query DOM
 const name = document.querySelector("#name");
